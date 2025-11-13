@@ -102,7 +102,7 @@ We believe in creating **simple, powerful, reliable** products for modern busine
 
 ## 📬 Contact Us
 
-📧 Email: **support@vowels-tech.com**  
+📧 Email: **Vowelscorporationindia@gmail.com**  
 📞 Phone: **+91 8691059507**  
 🌐 Website: **https://vowels-tech.github.io**  
 💼 LinkedIn: _coming soon_
@@ -112,7 +112,7 @@ We believe in creating **simple, powerful, reliable** products for modern busine
 <p align="center">
 Made with ❤️ by the Vowels Tech Team  
 </p>
-## Hi there 👋
+
 
 <!--
 **vowelscorporation/vowelscorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
