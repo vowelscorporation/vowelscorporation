@@ -91,10 +91,11 @@ Long-term product support with continuous improvements.
 
 ## 📞 Contact Us
 
-📧 **Vowelscorporationindia@gmail.com**
-📞 Phone: **+91 8691059507**  
-🌐 **https://vowels-tech.github.io**  
-📍 India  
+- ✉️ Email: **Vowelscorporationindia@gmail.com**  
+- 📱 Phone: **+91 8691059507**  
+- 🌐 Website: **https://vowels-tech.github.io**  
+- 📍 Location: **India**
+
 
 ---
 
