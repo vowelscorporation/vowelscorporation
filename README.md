@@ -1,33 +1,27 @@
-<h1 align="center">Welcome to <span style="color:#0A66C2;">Vowels Tech</span> 🚀</h1>
+<h1 align="center">🚀 Welcome to <span style="color:#0A66C2;">Vowels Tech</span></h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-</p>
-
-<h3 align="center">Smart • Scalable • Secure Software Solutions</h3>
-
-<p align="center">
-A modern IT solutions company delivering high-quality digital products.  
-We build Web Apps, Enterprise Systems, Automation Tools, and more.
+<p align="center">  
+We build smart, scalable, and secure digital products for modern businesses.  
+Specializing in Web Development, Cloud Solutions & Enterprise Software.  
 </p>
 
 ---
 
-## 🌟 About Us
+## 🏢 About Vowels Tech
 
-We are a passionate tech company focused on:
+Vowels-Tech is a growing IT solutions company delivering high-quality,  
+future-ready software for startups, enterprises, and industries.
 
-- 💻 Full-Stack Web Development (MERN)
-- 🏢 Custom Enterprise Software
-- ⚙ Automation Solutions for Businesses
-- 🔐 Secure & Scalable Architectures
-- 🚀 High-Performance & Clean Code
-
-We believe in creating **simple, powerful, reliable** products for modern businesses.
+### ✔ What We Focus On:
+- Full-Stack Web Development (MERN / .NET / PHP)
+- Enterprise-level automation & business software
+- Modern UI/UX, responsive frontends
+- Secure backend architecture & cloud deployments
+- Long-term product stability & support
 
 ---
 
-## ⚙️ Tech Stack We Use
+## 🛠 Tech We Work With
 
 <p align="left">
 
@@ -43,88 +37,65 @@ We believe in creating **simple, powerful, reliable** products for modern busine
 <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge">
 
-<!-- Databases -->
+<!-- Database -->
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-NoSQL-FF6F00?logo=apachecouchdb&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
 
-<!-- DevTools -->
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge">
+<!-- DevOps -->
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white&style=for-the-badge">
 
 </p>
 
+---
+
+## 💼 Our Services
+
+### ✔ Web Development  
+Scalable business websites, dashboards, admin panels, and SaaS platforms.
+
+### ✔ Full-Stack Applications  
+End-to-end solutions from frontend to backend to deployment.
+
+### ✔ Enterprise Software  
+Business automation, CRM, ERP, finance & operations tools.
+
+### ✔ API & Integration  
+Secure backend systems + integration with any platform.
+
+### ✔ Maintenance & Support  
+Long-term product support with continuous improvements.
 
 ---
 
-## 🏆 Our Work Philosophy
-
-- ✔ Clean Code  
-- ✔ Professional Git Workflow (PR-Based)  
-- ✔ Secure & Protected Main Branch  
-- ✔ Team Collaboration  
-- ✔ Enterprise-Level Standards  
-
----
-
-## 🚀 Projects We Work On
-
-- 🌐 Business–Investor Bridge Platform  
-- 🧘 Yoga Task & Leaderboard App  
-- 🌍 Country Finder Web App  
-- 🎬 Movie Explorer App  
-- 🏥 Medical Automation Tools  
-- 🛒 E-Commerce (Full-Stack)  
-- 📈 Company Dashboards & Admin Panels  
-
----
-
-## 👥 Core Team
+## 👥 Our Core Team
 
 | Name | Role |
 |------|------|
-| **Abhishek Upadhyay** | Lead Developer |
 | **Bhavesh Tiwari** | Product Manager |
-
-
----
-
-## 🤝 Collaboration Guidelines
-
-- 🔀 Always create a **feature branch**
-- 📌 Commit meaningful messages  
-- 🚫 No direct push to `main`  
-- ✔ Every change must go through **Pull Request**
-- 📝 At least **1 approval** required  
+| **Abhishek Upadhyay** | Lead Developer |
 
 ---
 
-## 📬 Contact Us
+## 🔐 Workflow & Standards
 
-📧 Email: **Vowelscorporationindia@gmail.com**  
+- PR-based workflow  
+- No direct push to `main` (strict protection)  
+- Required approvals before merging  
+- Clean modular code  
+- Secure development practices  
+
+---
+
+## 📞 Contact Us
+
+📧 **Vowelscorporationindia@gmail.com**
 📞 Phone: **+91 8691059507**  
-🌐 Website: **https://vowels-tech.github.io**  
-💼 LinkedIn: _coming soon_
+🌐 **https://vowels-tech.github.io**  
+📍 India  
 
 ---
 
-<p align="center">
-Made with ❤️ by the Vowels Tech Team  
-</p>
-
-
-<!--
-**vowelscorporation/vowelscorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b>Made with ❤️ by Vowels Tech</b></p>
